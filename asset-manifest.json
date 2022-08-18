@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Qr-codeGenerator/static/css/main.7508092a.css",
-    "main.js": "/Qr-codeGenerator/static/js/main.30885d5d.js",
-    "static/js/787.1dab2e5b.chunk.js": "/Qr-codeGenerator/static/js/787.1dab2e5b.chunk.js",
-    "static/media/home-img.png": "/Qr-codeGenerator/static/media/home-img.05952f00ff74f7f6f910.png",
-    "static/media/pre.svg": "/Qr-codeGenerator/static/media/pre.b0cef36cdd911b01733130afe73346b0.svg",
-    "index.html": "/Qr-codeGenerator/index.html",
-    "main.7508092a.css.map": "/Qr-codeGenerator/static/css/main.7508092a.css.map",
-    "main.30885d5d.js.map": "/Qr-codeGenerator/static/js/main.30885d5d.js.map",
-    "787.1dab2e5b.chunk.js.map": "/Qr-codeGenerator/static/js/787.1dab2e5b.chunk.js.map"
+    "main.css": "/QR-codeGenerator/static/css/main.7508092a.css",
+    "main.js": "/QR-codeGenerator/static/js/main.de5ec53c.js",
+    "static/js/787.1dab2e5b.chunk.js": "/QR-codeGenerator/static/js/787.1dab2e5b.chunk.js",
+    "static/media/home-img.png": "/QR-codeGenerator/static/media/home-img.05952f00ff74f7f6f910.png",
+    "static/media/pre.svg": "/QR-codeGenerator/static/media/pre.b0cef36cdd911b01733130afe73346b0.svg",
+    "index.html": "/QR-codeGenerator/index.html",
+    "main.7508092a.css.map": "/QR-codeGenerator/static/css/main.7508092a.css.map",
+    "main.de5ec53c.js.map": "/QR-codeGenerator/static/js/main.de5ec53c.js.map",
+    "787.1dab2e5b.chunk.js.map": "/QR-codeGenerator/static/js/787.1dab2e5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7508092a.css",
-    "static/js/main.30885d5d.js"
+    "static/js/main.de5ec53c.js"
   ]
 }
