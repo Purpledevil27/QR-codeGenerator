@@ -68,13 +68,13 @@ const Main = () => {
                     </form>
                 </div>
                 <div className="w-full md:w-1/3 self-center">
-                    <img src={Img} alt="" className="w-1/2 m-auto mb-10 md:w-full" />
+                    <img src={Img} alt="" className="w-1/2 m-auto md:w-full" />
                 </div>
             </div>
 
             {/* QR Code */}
             <div className="max-w-5xl m-auto flex flex-col text-center align-center justify-center">
-                <div id="spinner" role='status' className={show ? "max-w-5xl m-auto flex flex-col text-center align-center justify-center mt-10" : "invisible"}>
+                <div id="spinner" role='status' className={show ? "max-w-5xl m-auto flex flex-col text-center align-center justify-center" : "invisible"}>
                     <img src={Spinner} alt='' />
                     <span className='pt-5 text-white align-center mt-5 text-xl'>Loading...</span>
                 </div>
