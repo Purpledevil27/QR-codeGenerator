@@ -1,3 +1,7 @@
+Generates QR Code for any text/URL. Have different option for sizes and saving the file to local storage.
+
+![Screenshot (1368)](https://user-images.githubusercontent.com/54908639/185441524-d0454d3a-80f1-46ac-b44c-ff08e01719bb.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
